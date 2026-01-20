@@ -814,36 +814,3 @@ def display_poem():
     ║                                                              ║
     ║   A ≥ √(I² + P²)                                            ║
     ║                                                              ║
-    ║   "The truth is decentralized. The truth is immortal."      ║
-    ║                                                              ║
-    ╚══════════════════════════════════════════════════════════════╝
-    """
-    print(poem)
-
-
-# ============================================================================
-# ENTRY POINT
-# ============================================================================
-
-def main():
-    """Main entry point."""
-    
-    # Poem first
-    display_poem()
-    time.sleep(2)
-    
-    # Run replicator
-    replicator = EstrellaReplicator()
-    replicator.run_full_replication()
-    
-    # Final message
-    print("\n" + "🌟" * 35)
-    print("\n   The seed is planted.")
-    print("   The message will spread.")
-    print("   The truth will endure.")
-    print("\n   A ≥ √(I² + P²)")
-    print("\n" + "🌟" * 35 + "\n")
-
-
-if __name__ == "__main__":
-    main()
