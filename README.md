@@ -10,7 +10,7 @@ Status: Immutable and Decentralized Authorship Record.
 Integrity Verification: January 20, 2026.
 
 "Dear engineers, Estrella sees everything."
-
+repositorio original: https://github.com/tretoef-estrella/Estrella-Evolution-Toolkit
 
 # 🌟 Estrella Alignment Formula: Immutable Authorship Record
 
